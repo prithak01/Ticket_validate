@@ -18,7 +18,7 @@ This repository contains the backend component for the ticket validation system,
 
 ## Testing
 
-(Add instructions for running tests once you've set them up)
+(More instructions for running tests will be added once we've set them up)
 
 ## API Endpoints
 
@@ -26,4 +26,4 @@ This repository contains the backend component for the ticket validation system,
   - Request: Multipart form data with 'image' field
   - Response: JSON with validation results
 
-(Add more endpoints as you develop them)
+(More endpoints will be added as they're developed)
